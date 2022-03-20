@@ -1,1 +1,1 @@
-dev only
+dev new
